@@ -13,6 +13,8 @@ Further information on the model can be found in the figure below and Wiegels et
 
 ### Requirements
 
+It is recommended to use a GPU with approximately 32 GB of memory for an efficient model training and prediction.
+
 ### Data
 
 A test sub set of samples to run the model with prepared patches is provided in ```/data```.
@@ -36,6 +38,6 @@ The notebooks for preprocessing the data are given in the notebooks 01_... - 04_
 The notebook required to train the model is 05_rw_CNN_training.ipynb in which the model, normalization and furhter processing steps required for this model can be found.
 The notebook 06_rw_CNN_evaluation.ipynb shows how the model can be evaluated by using the test sub set and the pre-trained model.
 
-__Note: all helper modules are in ```/src```__
+__Note: all helper modules are located in ```/src```__
 
 # Citation
