@@ -1,0 +1,19 @@
+name: msg-seviri-cnn-wet-dry
+channels: 
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - xarray
+  - netcdf4
+  - tqdm
+  - tensorflow
+  - scipy
+  - scikit-learn
+  - cartopy
+  - dask
+  - seaborn
+  - pip
+  - pip:
+    - livelossplot
