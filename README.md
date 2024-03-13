@@ -1,6 +1,6 @@
 # MSG-SEVIRI-CNN-wet-dry
 
-Supplementary material to the master thesis "Improved Rainfall Measurements from Microwave Link Attenuation Data via MSG SEVIRI Cloud Information", published in DGPF Jahrestagung 2024 (...).
+Supplementary material to the master thesis "Improved Rainfall Measurements from Microwave Link Attenuation Data via MSG SEVIRI Cloud Information", published in [DGPF Tagungsband 2024](https://dgpf.de/src/tagung/jt2024/start.html).
 
 MSG-SEVIRI-CNN-wet-dry is a CNN model to process the satellite imagery of MSG SEVIRI to a wet-dry classification. 
 The input consists of a set of channels, two infrared (IR 3.9 & IR 10.8), one water vapor (WV 6.2) and one visible channel (VIS 0.6).
